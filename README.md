@@ -1,1 +1,3 @@
-# Tamil-bot
+flask
+requests
+openai
